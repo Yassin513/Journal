@@ -1,0 +1,43 @@
+h1 {text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align: center;
+    /* Les tailles polices doivent etre en REM */
+    font-size: 3rem;
+    background-color: #6d6464;
+    text-shadow: 3px 4px 8px #000000;
+    color: #f46e00;
+    font-family: "Oswald", system-ui;
+    /* trouver des polices sur Google font  */}
+
+h2{text-transform: uppercase;
+letter-spacing: 3px;
+text-align: center;
+/*Les tailles de police en REM ou % */
+font-size: 2.5rem;
+text-shadow: 3px 4px 8px #f46e00;;
+color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+/*police sur Google font */}
+
+h3{text-shadow: 3px 4px 8px;
+color: #000000;
+text-shadow: 3px 4px 8px #f46e00;
+text-align: center;
+text-transform: inherit;
+font-size: large;}
+
+h4{text-shadow: 3px 4px 8px;
+color: #000000;
+text-shadow: 3px 4px 8px #f46e00;
+text-align: center;
+text-transform: inherit;
+font-size: large;}
+
+p{text-align: center;
+text-transform: inherit;}
+
+
+
+
+
+
